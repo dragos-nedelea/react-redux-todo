@@ -1,7 +1,6 @@
 import "./App.css";
 import AddTodoForm from "./components/AddTodoForm";
 import TodoList from "./components/TodoList";
-import { TotalCompletedItems } from "./components/TotalCompletedItems";
 
 function App() {
   return (

@@ -13,6 +13,7 @@ function AddTodoForm() {
         title: value,
       })
     );
+    setValue("");
   };
 
   return (
